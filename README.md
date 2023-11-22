@@ -37,34 +37,29 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. Select systems are designed for small and medium-sized deployments, and you should not feel the need to use this feature. However, we know that if you cannot adjust a tool when you plan to use it, it is useless.
 
-## Learn More
+## Learn more
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more at [Create React](https://facebook.github.io/create-react-app /docs/getting-started) .
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Visit [React Documentation](https://reactjs .org/) to learn React.
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This article has been moved here: [https://facebook.github.io/create-react-app/ docs/code-splitting] (https:// facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### Big Data Analysis
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This message has been corrected move here: [ https:/ / facebook.github .io/create-react-app/docs/analyzing-the-bundle-size ](https://facebook.github.io/create-react-app/ docs /analyzing-the-bundle -size ) < br>< br>### Making Progressive Web Applications
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This message has been moved here: [https://facebook.github.io /create- react-app/docs/making- a-progressive - web application](https ://facebook.github.io/create-react-app/docs/making-a-progressive-web-app) > >### Advanced settings
+> This section has been moved here: [ https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/ advanced configuration)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This method has been moved here: [https://facebook.github.io/create-react-app/docs/deployment](https ://facebook.github.io/create-react -app/docs/deployment)
 
-### `npm run build` fails to minify
+### Could not reduce ` npm run create`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This message has been moved here: [ https://facebook.github.io/create-react-app/ docs/troubleshooting#npm-run -build-fails-to-minify](https://facebook.github.io/create-react-app/ docs/troubleshooting#npm-run-build-fails-to-minify)
